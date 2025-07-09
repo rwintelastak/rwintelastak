@@ -25,8 +25,8 @@
 - APIs, visualization layers, and robust architecture for technical workflows
 
 ### ⚡ Power System Monitoring & Analytics
-- Interested in applying past utility and engineering background toward modern monitoring technologies
-- Exploring tools and techniques for edge analytics, telemetry, and real-time dashboard development in energy and industrial contexts
+- Applying past utility and engineering background toward modern monitoring technologies
+- Leveraging tools and techniques for edge analytics, telemetry, and real-time dashboard development in energy and industrial contexts
 
 ### 📚 Technical Education & Prototyping
 - Tutoring in Python, AI/ML, Arduino, robotics, and security  
