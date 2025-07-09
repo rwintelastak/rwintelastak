@@ -25,12 +25,12 @@
 - APIs, visualization layers, and robust architecture for technical workflows
 
 ### ⚡ Power System Monitoring & Analytics
-- Substation telemetry, edge analytics, and predictive maintenance  
-- Real-time dashboards for energy, utility, and industrial sectors  
+- Interested in applying past utility and engineering background toward modern monitoring technologies
+- Exploring tools and techniques for edge analytics, telemetry, and real-time dashboard development in energy and industrial contexts
 
 ### 📚 Technical Education & Prototyping
 - Tutoring in Python, AI/ML, Arduino, robotics, and security  
-- Fast-turnaround MVPs and proof-of-concept projects  
+- Fast-turnaround Minimum Viable Products and proof-of-concept projects  
 - Maker/STEM program design and technical curriculum consulting  
 
 ---
