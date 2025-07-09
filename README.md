@@ -37,7 +37,7 @@
 
 ## 🔧 Why RWIntelaStak?
 
-We blend real-world experience in industrial and energy systems (compressors, substations, paper mills, utilities) with state-of-the-art skills in AI, cybersecurity, and software engineering. Our hybrid background allows us to create powerful, practical solutions that modernize systems without abandoning what already works.
+We blend real-world experience in industrial and energy systems (air systems, substations, paper mills, utilities) with state-of-the-art skills in AI, cybersecurity, and software engineering. Our hybrid background allows us to create powerful, practical solutions that modernize systems without abandoning what already works.
 
 > 🔄 **From legacy systems to autonomous intelligence—RWIntelaStak is your bridge.**
 
