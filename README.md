@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Website](https://img.shields.io/badge/Website-rwintelastak.com-007ACC?logo=google-chrome)](https://rwintelastak.com)
 
-**RWIntelaStak** is a strategic consulting and development firm at the intersection of industrial expertise and intelligent automation. We combine decades of hands-on engineering experience with modern proficiency in computer science, AI, IoT, and embedded systems to deliver impactful, scalable, and future-ready solutions.
+**RWIntelaStak** is a strategic consulting and development firm at the intersection of industrial experience and intelligent automation. We combine decades of hands-on engineering experience with modern proficiency in computer science, AI, IoT, and embedded systems to deliver impactful, scalable, and future-ready solutions.
 
 ---
 
@@ -28,7 +28,7 @@
 - Substation telemetry, edge analytics, and predictive maintenance  
 - Real-time dashboards for energy, utility, and industrial sectors  
 
-### 📚 Technical Education & Rapid Prototyping
+### 📚 Technical Education & Prototyping
 - Tutoring in Python, AI/ML, Arduino, robotics, and security  
 - Fast-turnaround MVPs and proof-of-concept projects  
 - Maker/STEM program design and technical curriculum consulting  
