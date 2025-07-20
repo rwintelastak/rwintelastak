@@ -2,8 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Status: Actively Developing](https://img.shields.io/badge/status-active-success.svg)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Website](https://img.shields.io/badge/Website-rwintelastak.com-007ACC?logo=google-chrome)](https://rwintelastak.com)
 
 **RWIntelaStak** is a strategic consulting and development firm at the intersection of industrial experience and intelligent automation. We combine decades of hands-on engineering experience with modern proficiency in computer science, AI, IoT, and embedded systems to deliver impactful, scalable, and future-ready solutions.
 
@@ -45,9 +43,10 @@ We blend real-world experience in industrial and energy systems (air systems, su
 
 ## 📬 Let’s Connect
 
-- 🌐 [Website](https://rwintelastak.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📫 Email: [rwintelastak@rwintelastak.com](mailto:rwintelastak@rwintelastak.com)
+- ☎️ [Telephone](920-???-????)
+- 📫 [Email](mailto:rwintelastak@rwintelastak.com)
+- 🌐 [Website](https://rwintelastak.com)
+- 💼 [LinkedIn](https://www.linkedin.com/company/rwintelastak/)
 
 ---
 
