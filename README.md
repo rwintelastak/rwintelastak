@@ -47,6 +47,12 @@ We blend real-world experience in industrial and energy systems (air systems, su
 - 📫 [Email: rwintelastak@rwintelastak.com](mailto:rwintelastak@rwintelastak.com)
 - 🌐 [Website: www.rwintelastak.com](https://www.rwintelastak.com)
 - 💼 [LinkedIn: www.linkedin.com/company/rwintelastak/](https://www.linkedin.com/company/rwintelastak/)
+- ☎️ [Telephone: 920-???-????](920-???-????)
+- 📫 [Email: rwintelastak@rwintelastak.com](mailto:rwintelastak@rwintelastak.com)
+- 🌐 [Website: www.rwintelastak.com](https://www.rwintelastak.com)
+- 🐙 [GitHub: github.com/rwintelastak](https://github.com/rwintelastak)
+- 🔗[LinkedIn: www.linkedin.com/company/rwintelastak/](https://www.linkedin.com/company/rwintelastak/)
+
 
 ---
 
