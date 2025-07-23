@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Status: Actively Developing](https://img.shields.io/badge/status-active-success.svg)](#)
 
-**RWIntelaStak** is a strategic consulting and development firm at the intersection of industrial experience and intelligent automation. We combine decades of hands-on engineering experience with modern proficiency in computer science, AI, IoT, and embedded systems to deliver impactful, scalable, and future-ready solutions.
+**RWIntelaStak** is a consulting and development firm at the intersection of industrial experience and intelligent automation. We combine decades of hands-on engineering experience with modern proficiency in computer science, AI, IoT, and embedded systems to deliver impactful, scalable, and future-ready solutions.
 
 ---
 
