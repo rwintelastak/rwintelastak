@@ -42,7 +42,7 @@ We blend real-world experience in industrial and energy systems (air systems, su
 ---
 
 ## 📬 Let’s Connect
-- ☎️ [Telephone: 920-???-????](920-???-????)
+- ☎️ [Telephone: 920-396-5683](920-396-5683)
 - 📫 [Email: rwintelastak@rwintelastak.com](mailto:rwintelastak@rwintelastak.com)
 - 🌐 [Website: www.rwintelastak.com](https://www.rwintelastak.com)
 - 🔗[LinkedIn: www.linkedin.com/company/rwintelastak/](https://www.linkedin.com/company/rwintelastak/)
